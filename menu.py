@@ -1,3 +1,1 @@
-from RumusVolume import volume
-
-volume()
+print("kamu siapa?")
